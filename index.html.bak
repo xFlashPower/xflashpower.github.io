@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çizgiflix | Ana sayfa</title>
+    <link rel="icon" type="image"
+        href="/img/logo.png" />
+    
+    
+    <!-- SEO Meta  (Ryzenen)-->
+<meta name="author" content="Ryzenen">
+<meta name="msapplication-TileColor" content="#ff0a0a">
+<meta name="msapplication-TileImage" content="./img/favicon.png">
+<meta name="theme-color" content="#ff0a0a">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Çizgiflix, internette herkesin keyif alabileceği deneyimler yaratmaya çalışıyor.">
+<meta name="keywords" content="Çizgiflix, Çizgi flix, cizgi flix, çizgi film, çizgi dizi, çizgiflix tv, çizgi, çizgifilm, cizgiflix, çizgidizi, filmler, film">
+<meta property="og:title" content="Çizgiflix">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://cizgiflix.com/">
+<meta property="og:description" content="Çizgiflix, internette herkesin keyif alabileceği deneyimler yaratmaya çalışıyor.">
+<meta property="og:image" content="./main/img/favicon.png">
+<meta property="og:site_name" content="Çizgiflix">
+<meta itemprop="name" content="Çizgiflix">
+<meta itemprop="description" content="Çizgiflix, internette herkesin keyif alabileceği deneyimler yaratmaya çalışıyor.">
+<meta itemprop="image" content="./img/favicon.png">
+<meta name="twitter:title" content="Çizgiflix">
+<meta name="twitter:description" content="Çizgiflix, internette herkesin keyif alabileceği deneyimler yaratmaya çalışıyor.">
+<meta name="twitter:image:src" content="./img/favicon.png">
+    
+    
+    <link rel="stylesheet" href="./maincss/global.css">
+    <link rel="stylesheet" href="./maincss/header.css">
+    <link rel="stylesheet" href="./maincss/cards.css">
+    <link rel="stylesheet" href="./maincss/banner.css">
+    <link rel="stylesheet" href="./maincss/footer.css">
+  <link rel="stylesheet" href="styles/style.css">
+  <link rel="stylesheet" href="styles/responsive.css">
+  <link rel="stylesheet" href="styles/ryzenen/ryzenen.carousel.min.css">
+  <link rel="stylesheet" href="styles/ryzenen/ryzenen.theme.default.min.css">
+  <script src="js/ryzenen/jquery.min.js"></script>
+  <script src="js/ryzenen/ryzenen.carousel.min.js"></script>
+  <script src="https://kit.fontawesome.com/77daa57238.js" crossorigin="anonymous"></script>
+    <script src="./scripts/main.js" defer></script>
+</head>
+
+<body>
+    <header>
+
+        <div class="disneyintr">
+
+            <img src="https://media.discordapp.net/attachments/533639460001415188/981824006170746911/logo.png"
+                alt="logo">
+
+            <nav>
+                <ul>
+                    <li>
+                        <a href="/">
+                            <img src="./images/home.svg" alt="home">
+                            <span>Ana sayfa</span>
+                        </a>
+                    </li>
+                    <li>
+
+
+
+                                </li>
+                                <li>
+                </ul>
+            </nav>
+
+        </div>
+
+        <div class="profile">
+            <a href="/discord">
+            <img src="https://media.discordapp.net/attachments/973919706916483114/977638650022068244/safdhgfgh.png"
+                alt="avatar">
+        </div></a>
+
+    </header>
+
+    <div class="banner">
+        <video class="videodisney" loop autoplay muted src="https://rr4---sn-vgqsknlk.googlevideo.com/videoplayback?expire=1654176099&ei=A2WYYvnZEJWQsfIP7viAwA8&ip=107.181.184.201&id=o-AAzXRPFtHTzilfSkUoW8w5QoZcvhSGwOIjgLeNk0Xuyz&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&spc=4ocVCxUfhsmRsvtvh-hRTZQXXBeW&vprv=1&mime=video%2Fmp4&ns=OvbWm8YnnaW4-SZDDWCf8rQG&gir=yes&clen=6110314&dur=70.999&lmt=1639462874788347&keepalive=yes&fexp=24001373,24007246&c=WEB&rbqsm=fr&txp=5316222&n=Z8Jnt09fV7xqpQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgbClQNxcI9kX2AACeEOdhIHSKa5YO3BhgePdwWmQ-FbACIQCWLdqCLbFaKsPAQmSLP8qkNxqcO9nTLCnUlAtq0vEhvw%3D%3D&redirect_counter=1&cm2rm=sn-a5me7z7e&req_id=b9d5151fedba3ee&cms_redirect=yes&cmsv=e&mh=KM&mip=78.174.70.236&mm=34&mn=sn-vgqsknlk&ms=ltu&mt=1654153793&mv=D&mvi=4&pl=0&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAImCr0pBVlp444ok5YjJ4jdXAUug5EjK4_2Ke3Rx0CdRAiEA2wB_9yi4OKzsdUyGAU9NGleqwnvX06weUeL0cc71Hvw%3D"></video>
+
+    </div>
+
+    <section>
+
+        <h3>Kanallar</h3>
+
+        <div class="cards">
+
+            <div class="card">
+                <a href="pages/bitrays-kanal/index.html"> 
+                <img src="https://media.discordapp.net/attachments/533639460001415188/981821167239319582/channels4_profile.jpg?width=430&height=430"
+                    alt="cizgiflix">
+            </div></a>
+                        <div class="card">
+                <a href="pages/test-kanal/index.html"> 
+                <img src="data:image/png;base64,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"
+                    alt="cizgiflix">
+            </div></a>
+            
+           <!--  <div class="card">
+                <a href="https://cizgiflix.com/slugterra/slugterra-1.html"> 
+                <img src="https://vikhyatsingh123.github.io/SlugTerra/images/1.jpg"
+                    alt="cizgiflix">
+            </div></a>
+
+            <div class="card">
+                <a href="https://cizgiflix.com/ultimatealien/ultimatealien-1.html"> 
+                <img src="https://i.ytimg.com/vi/0QuYxbnBqHk/maxresdefault.jpg"
+                    alt="cizgiflix">
+            </div></a>
+
+            <div class="card">
+                <a href="https://cizgiflix.com/teentitansgo/teen-titans-go-1.html"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977263708009025606/dsafdsgdfhgfh.jpg"
+                    alt="cizgiflix">
+            </div></a>
+
+            <div class="card">
+                <a href="https://cizgiflix.com/sureklidizi/sureklidizi-1"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977264345325125723/asddfgfh.jpg"
+                    alt="cizgiflix">
+            </div></a>
+
+            <div class="card">
+                <a href="https://cizgiflix.com/dramaadasi/dramaadasi-bolum-1.html"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977264929344192542/sdafdgfhghj.jpg"
+                    alt="cizgiflix">
+            </div></a>
+
+            <div class="card">
+                <a href="https://cizgiflix.com/samurayjack/samurayjack-bolum-1.html"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977266007733305415/ergfdhgjhjk.jpg"
+                    alt="cizgiflix">
+            </div></a>
+
+            <div class="card">
+                <a href="https://cizgiflix.com/gumball/gumball-1"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977266812507009024/sdfdfhggfhjgj.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            
+            <div class="card">
+                <a href="https://cizgiflix.com/bahceduvarininotesinde/bahce-duvarinin-otesinde-bolum-1.html"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977267287000248340/sdgfdfhfgjhgjk.jpg"
+                    alt="cizgiflix">
+            </div></a>
+                        
+            <div class="card">
+                <a href="https://cizgiflix.com/dunyalielliot/dunyalielliot-bolum-1.html"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977268143728771112/sdfdggfjhgk.jpg"
+                    alt="cizgiflix">
+            </div></a>
+          
+            <div class="card">
+                <a href="https://cizgiflix.com/ben10classic/ben10-bolum-1.html"> 
+                <img src="https://media.discordapp.net/attachments/910781147024359454/977268772094226492/fghnhgkhjjkl.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/cesurkorkakkopek/cesur-korkak-kopek-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977639586668875776/dfgfjghkhjk.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/esrarengizkasaba/esrarengizkasaba-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977640552143130634/dfgfghjghj.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/randy/randy-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977641814213423174/sadfdfhgfghj.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/ninjago/ninjago-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977642389080535120/dwsfdfhfghg.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/doraemon/doraemon-1"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977642794149617664/dfhgfghgjghj.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="/uzunkulakailesi/uzunkulak-1.html"> 
+                <img src="https://ytimg.googleusercontent.com/vi/mUuKIC4-iw0/mqdefault.jpg"
+                    alt="cizgiflix"> -->
+  <!--           </div></a>
+
+
+        </div>
+
+    </section>
+          
+            
+    <section>
+
+        <h3>Filmler</h3>
+        <div class="cards">
+            <div class="card">
+                <a href="https://cizgiflix.com/wandavision/wv-1.html"> 
+                <img src="https://redlegacycomics.com/wp-content/uploads/2020/11/wandavision-cabecera.jpg"
+                    alt="cizgiflix">
+            </div></a>
+                                                <div class="card">
+                <a href="https://cizgiflix.com/filmler/endgame.html"> 
+                <img src="https://writinguntilragnarokhome.files.wordpress.com/2021/01/avengers-endgame-review.jpg?w=1280"
+                    alt="cizgiflix">
+            </div></a>
+                                    <div class="card">
+                <a href="https://cizgiflix.com/filmler/kirpisonic2.html"> 
+                <img src="https://img.tamindir.com/2021/12/470608/sonic-the-hedgehog-2-fragmani.jpg"
+                    alt="cizgiflix">
+            </div></a>
+                        <div class="card">
+                <a href="https://cizgiflix.com/filmler/orumcekadamevedonusyok.html"> 
+                <img src="https://724kultursanat.com/wp-content/uploads/2021/12/orumcek-adam-eve-donus-yok-vizyon-tarihi-1280x720.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/infinitywar.html"> 
+                <img src="https://1.bp.blogspot.com/-ewO3jQXnQpQ/Xqe8ss_Qj-I/AAAAAAAAHAw/XO5CWsarG2YJMvNGubMegOe3yZFV478_QCLcBGAsYHQ/s1600/Avengers-Infinity-War.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            
+                        <div class="card">
+                <a href="https://cizgiflix.com/filmler/orumcekadamevedonus.html"> 
+                <img src="https://eew26x4bnm8.exactdn.com/wp-content/uploads/2021/02/5bea820c1e91spiderman-homecoming.jpeg"
+                    alt="cizgiflix">
+            </div></a>
+
+
+                                               <div class="card">
+                <a href="https://cizgiflix.com/filmler/theadamproject.html"> 
+                <img src="https://www.webtekno.com/images/editor/default/0003/49/4a782305dd2c366a6d161cc1908a65ad835c36d2.jpeg"
+                    alt="cizgiflix">
+            </div></a>
+            
+            
+        </div>
+
+    </section>
+
+    <section>
+        
+        <h3>Çizgi Filmler</h3>
+        <div class="cards">
+            
+                                    <div class="card">
+                <a href="https://cizgiflix.com/filmler/oteltransilvanya1.html"> 
+                <img src="https://tr.web.img3.acsta.net/r_654_368/newsv7/21/08/17/13/45/0336957.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            
+                                                           <div class="card">
+                <a href="https://cizgiflix.com/filmler/oyuncakhikayesi.html"> 
+                <img src="https://i.ytimg.com/vi/OsYuASRUCMk/maxresdefault.jpg"
+                    alt="cizgiflix">
+            </div></a>
+                                                           <div class="card">
+                <a href="https://cizgiflix.com/filmler/oyuncakhikayesi2.html"> 
+                <img src="https://www.themoviedb.org/t/p/original/yBQS2rvC9LuPwHF82SKuENcFu9Z.jpg"
+                    alt="cizgiflix">
+            </div></a>
+                                    <div class="card">
+                <a href="https://cizgiflix.com/filmler/afacanlar-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977643878461112420/sadfdhgfgh.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/barbie-2.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977644318074490911/dfgfghghjgj.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/barbie-prenses-macerasi-1.html"> 
+                <img src="https://i.ytimg.com/vi/yPDMVByVkkw/maxresdefault.jpg"
+                    alt="cizgiflix">
+            </div></a>
+
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/ben10-3.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977647681742704660/sdgfhgjhgjk.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/ben10-4.html"> 
+                <img src="https://www.diyadinnet.com/d/news/ben-10-in-yepyeni-filmi-ben-10-10010-tv-de-ilk-kez-cartoon-network-te-116664.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/ben10-5.html"> 
+                <img src="https://m.media-amazon.com/images/M/MV5BM2YyMjdkZGUtN2IzYi00YWQ0LThjOTctNjk4NGMzY2Y3NDI1XkEyXkFqcGdeQXVyMTI5OTEzNjU5._V1_.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/ben10-6.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977685248345251931/sdfsddfhggfh.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/bravo-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977648923588034600/dfhghjhjkhj.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/bugsbunny-1.html"> 
+                <img src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b5c6f941c46c6633401b311f3357358afa9b4a968c02ad1d88cd803f82c5df19._UY500_UX667_RI_V_TTW_.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/bugsbunny-2.html"> 
+                <img src="https://m.media-amazon.com/images/S/pv-target-images/e70992de5cfe0abfd4e935b3369281d23b30e5c3da662c714a62b8a8b4ca016d.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/dexter-1.html"> 
+                <img src="https://i.ytimg.com/vi/nZUBAFBv_ss/maxresdefault.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/edds-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977650334619009144/xdfgdfghfhgj.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/gurultu-1.html"> 
+                <img src="https://tr.web.img2.acsta.net/videothumbnails/21/07/29/14/59/1206811.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/mucize-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977651674552340500/asdfdfhgfhgjhgj.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/mucize-2.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977652352859373608/sgdhghjhgjk.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/powerpuff-1.html"> 
+                <img src="https://i.ytimg.com/vi/mkLDEarY4ow/maxresdefault.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/scoob-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977653610164932608/dsfhgfgjhghk.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/steven-1.html"> 
+                <img src="https://i.ytimg.com/vi/tHkBi5cH2B8/maxresdefault.jpg"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/teentitans-1.html"> 
+                <img src="https://media.discordapp.net/attachments/973919706916483114/977654541757599784/DFGFGHGHKJHK.png"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/teentitans-2.html"> 
+                <img src="https://www.awn.com/sites/default/files/styles/original/public/image/featured/teen_titans2_cropped1280x720.jpg?itok=CZlTsm3D"
+                    alt="cizgiflix">
+            </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/teentitans-3.html"> 
+                <img src="https://m.media-amazon.com/images/M/MV5BM2IyOTVkZGEtZjZmMS00OGMyLTkxMWMtZmJkOWZiNDE4YjFiXkEyXkFqcGdeQXVyMTM5MDQ3MzU1._V1_.jpg"
+                    alt="cizgiflix">
+            </div></a> -->
+            
+            
+        </div>
+        
+    </section>
+
+    <section>
+
+        <h3> Seriler </h3>
+
+        <div class="cards">
+
+            <div class="card">
+                <a href="https://yakındalaanlamiyonmu"> 
+                <img src="data:image/png;base64,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"
+                    alt="cizgiflix">
+<!--             </div></a>
+            <div class="card">
+                <a href="https://cizgiflix.com/filmler/ben10-2.html"> 
+                <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/6/67/Ben_10_Alien_Swarm_film_afi%C5%9Fi.jpg/220px-Ben_10_Alien_Swarm_film_afi%C5%9Fi.jpg"
+                    alt="cizgiflix">
+            </div></a> -->
+
+        </div>
+
+    </section>
+
+    <footer>
+        <img src="https://media.discordapp.net/attachments/533639460001415188/981824006170746911/logo.png"
+        alt="logo">        
+        <p>&copy; GrowTube. Tüm hakları Saklıdır.</p>
+        <p>GrowTube, FlashPower'ın bir eseridir.</p>
+        
+    </footer>
+            
+
+</body>
+
+</html>
